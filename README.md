@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌐 I am a School Student Looking towards making new Projects !<br>
+😌Even when you're not feeling it, make things anyway😌<br>
 
 
 # 💻 Tech Stack:
