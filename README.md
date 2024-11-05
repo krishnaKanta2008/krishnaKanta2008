@@ -14,11 +14,10 @@
 </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishnaKanta2008&theme=dark&hide_border=false)<br/>
+---
 
+[![An image of @krishnakanta2008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishnakanta2008)](https://holopin.io/@krishnakanta2008)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=krishnaKanta2008&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
