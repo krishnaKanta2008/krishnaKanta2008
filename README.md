@@ -19,4 +19,7 @@
 [![An image of @krishnakanta2008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishnakanta2008)](https://holopin.io/@krishnakanta2008)
 
 ---
-![](https://komarev.com/ghpvc/?username=krishnaKanta2008&label=PROFILE+VIEWS)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishnaKanta2008&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;&nbsp;<b>THANKING FOR VISTING MY PROFILE ! VISIT AGAIN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b>
+</p>
