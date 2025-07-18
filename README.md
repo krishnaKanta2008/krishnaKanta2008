@@ -19,5 +19,4 @@
 [![An image of @krishnakanta2008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishnakanta2008)](https://holopin.io/@krishnakanta2008)
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/{krishnaKanta2008}/count.svg)
+![](https://komarev.com/ghpvc/?username=krishnaKanta2008&label=PROFILE+VIEWS)
