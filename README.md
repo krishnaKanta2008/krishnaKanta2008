@@ -19,5 +19,5 @@
 [![An image of @krishnakanta2008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishnakanta2008)](https://holopin.io/@krishnakanta2008)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krishnaKanta2008&icon=2&color=1)](https://visitcount.itsvg.in)
 
+![Visitor Count](https://profile-counter.glitch.me/{krishnaKanta2008}/count.svg)
